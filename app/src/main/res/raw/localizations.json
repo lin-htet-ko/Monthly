@@ -1,0 +1,92 @@
+{
+  "bundles": [
+    {
+      "type": {
+        "code": "eng",
+        "name": "English"
+      },
+      "language": {
+        "appName": "Monthly",
+        "lblName": "Name",
+        "lblEmail": "Email",
+        "lblPhone": "Phone Number",
+        "lblAddImage": "Add Image",
+        "lblAdd": "Add",
+        "lblRegister": "Register",
+        "lblRegisterAcc": "Register Account",
+        "lblLoginAcc": "Login Account",
+        "lblPassword": "Password",
+        "lblLogin": "Login",
+        "lblAmountToPay": "Amount to pay",
+        "lblTotal": "Total",
+        "lblEach": "Each",
+        "lblKs": " KS",
+        "lblFlatmates": "Flatmates",
+        "lblAddNew": "Add New",
+        "lblGeneralCost": "General Cost",
+        "lblCategory": "Category",
+        "lblCost": "Cost",
+        "lblBoughtItems": "Bought Items",
+        "lblEmptyCategory": "No cost record for general cost",
+        "lblEmptyBoughtItems": "No one bought items for this month",
+        "lblProfileDetail": "Profile Detail",
+        "lblAddCategoryName": "Please add category's name",
+        "lblAddCost": "Please add item's cost",
+        "lblPlsWait": "Please wait",
+        "lblSomethingWrong": "Something Wrong",
+        "lblNameOrEmailRequired": "Email or Password is required",
+        "lblUsedMoney": "Used Money",
+        "lblSetting": "Setting",
+        "lblChangeLang": "Change Language",
+        "lblLogout": "Logout",
+        "lblChooseLang": "Choose Language",
+        "lblChangeColor": "Change Color",
+        "lblChooseColor": "Choose Color"
+      }
+    },
+    {
+      "type": {
+        "code": "my",
+        "name": "ဗမာစာ"
+      },
+      "language": {
+        "appName": "Monthly",
+        "lblName": "အမည်",
+        "lblEmail": "အီးမေးလ်",
+        "lblPhone": "ဖုန်းနံပါတ်",
+        "lblAddImage": "ဓာတ်ပုံထည့်ရန်",
+        "lblAdd": "ထည့်ရန်",
+        "lblRegister": "စာရင်းသွင်းမည်",
+        "lblRegisterAcc": "အကောင့်\nစာရင်းသွင်းမည်",
+        "lblLoginAcc": "အကောင့်\nဝင်မည်",
+        "lblPassword": "လျှို့ဝှက်နံပါတ်",
+        "lblLogin": "ဝင်မည်",
+        "lblAmountToPay": "ပေးချေရမည့်\nငွေကြေးပမာဏ",
+        "lblTotal": "စုစုပေါင်း",
+        "lblEach": "တစ်ဦးချင်းစီ",
+        "lblKs": " ကျပ်",
+        "lblFlatmates": "အခန်းဖော်များ",
+        "lblAddNew": "အသစ်ထည့်ရန်",
+        "lblGeneralCost": "အထွေထွေ\nအသုံးစရိတ်",
+        "lblCategory": "အမျိုးအစားအမည်",
+        "lblCost": "ကျသင့်ငွေ",
+        "lblBoughtItems": "ဝယ်ထားသော\nပစ္စည်းများစာရင်း",
+        "lblEmptyCategory": "အထွေထွေအသုံးစရိတ် မရှိသေးပါ",
+        "lblEmptyBoughtItems": "ဒီလဝယ်ယူထားသောပစ္စည်းများ မရှိသေးပါ",
+        "lblProfileDetail": "ကိုယ်ရေးစာမျက်နှာ",
+        "lblAddCategoryName": "ပစ္စည်းအမည် ရိုက်ထည့်ရန်",
+        "lblAddCost": "ကျသင့်ငွေ ရိုက်ထည့်ရန်",
+        "lblPlsWait": "ကျေးဇူးပြု၍ ခဏစောင့်ပါ",
+        "lblSomethingWrong": "တစ်ခုခုမှားယွင်းနေသည်",
+        "lblNameOrEmailRequired": "အီးမေးလ် သို့မဟုတ် လျို့ဝှက်နံပါတ်တစ်ခုတစ်ခု လိုအပ်နေသည်",
+        "lblUsedMoney": "အသုံးပြုထားသော\nငွေကြေးပမာဏ",
+        "lblSetting": "ပြင်ဆင်ခြင်း",
+        "lblChangeLang": "ဘာသာစကားပြောင်းလဲရန်",
+        "lblLogout": "ထွက်မည်",
+        "lblChooseLang": "ဘာသာစကား ရွေးချယ်ရန်",
+        "lblChangeColor": "အရောင် ပြောင်းလဲရန်",
+        "lblChooseColor": "အရောင် ရွေးချယ်ပါ"
+      }
+    }
+  ]
+}

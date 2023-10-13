@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_general">8dp</dimen>
+    <dimen name="spacing_2x">16dp</dimen>
+    <dimen name="height_textfield_with_label">50dp</dimen>
+    <dimen name="height_register_img">200dp</dimen>
+    <dimen name="size_empty">0dp</dimen>
+    <dimen name="size_general_stroke">1dp</dimen>
+    <dimen name="spacing_3x">24dp</dimen>
+    <dimen name="size_dashboard_img">100dp</dimen>
+    <dimen name="size_bought_item">180dp</dimen>
+    <dimen name="size_profile_img">130dp</dimen>
+    <dimen name="size_progress_dialog">200dp</dimen>
+    <dimen name="size_color_item">40dp</dimen>
+    <dimen name="size_splash_logo">200dp</dimen>
+</resources>

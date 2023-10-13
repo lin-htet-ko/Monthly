@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Monthly</string>
+    <string name="lbl_name">အမည်</string>
+    <string name="lbl_email">အီးမေးလ်</string>
+    <string name="lbl_phone">ဖုန်းနံပါတ်</string>
+    <string name="lbl_add_image">ဓာတ်ပုံထည့်ရန်</string>
+    <string name="lbl_add">ထည့်ရန်</string>
+    <string name="lbl_register">စာရင်းသွင်းမည်</string>
+    <string name="lbl_register_account">အကောင့်\nစာရင်းသွင်းမည်</string>
+    <string name="lbl_login_acc">အကောင့်\nဝင်မည်</string>
+    <string name="lbl_password">လျှို့ဝှက်နံပါတ်</string>
+    <string name="lbl_login">ဝင်မည်</string>
+    <string name="lbl_amount_to_pay">ပေးချေရမည့်\nငွေကြေးပမာဏ</string>
+    <string name="lbl_total">စုစုပေါင်း</string>
+    <string name="lbl_each">တစ်ဦးချင်းစီ</string>
+    <string name="lbl_ks">%1$s ကျပ်</string>
+    <string name="lbl_flatmates">အခန်းဖော်များ</string>
+    <string name="lbl_add_new">အသစ်ထည့်ရန်</string>
+    <string name="lbl_general_cost">အထွေထွေ\nအသုံးစရိတ်</string>
+    <string name="lbl_category">အမျိုးအစားအမည်</string>
+    <string name="lbl_cost">ကျသင့်ငွေ</string>
+    <string name="lbl_bought_items">ဝယ်ထားသော\nပစ္စည်းများစာရင်း</string>
+    <string name="lbl_empty_category">အထွေထွေအသုံးစရိတ် မရှိသေးပါ</string>
+    <string name="lbl_empty_bought_item">ဒီလဝယ်ယူထားသောပစ္စည်းများ မရှိသေးပါ</string>
+    <string name="lbl_profile_detail">ကိုယ်ရေးစာမျက်နှာ</string>
+    <string name="lbl_add_category_name">ပစ္စည်းအမည် ရိုက်ထည့်ရန်</string>
+    <string name="lbl_add_cost">ကျသင့်ငွေ ရိုက်ထည့်ရန်</string>
+    <string name="lbl_please_wait">ကျေးဇူးပြု၍ ခဏစောင့်ပါ</string>
+    <string name="lbl_something_wrong">တစ်ခုခုမှားယွင်းနေသည်</string>
+    <string name="lbl_name_or_email_required">အီးမေးလ် သို့မဟုတ် လျို့ဝှက်နံပါတ်တစ်ခုတစ်ခု လိုအပ်နေသည်</string>
+    <string name="lbl_used_money">အသုံးပြုထားသော\nငွေကြေးပမာဏ</string>
+    <string name="lbl_setting">ပြင်ဆင်ခြင်း</string>
+    <string name="lbl_change_language">ဘာသာစကားပြောင်းလဲရန်</string>
+    <string name="lbl_logout">ထွက်မည်</string>
+    <string name="lbl_choose_language">ဘာသာစကား ရွေးချယ်ရန်</string>
+</resources>
+
+<!--
+<resources>
+    <string name="app_name">Monthly</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_phone">Phone Number</string>
+    <string name="lbl_add_image">Add Image</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_register">Register</string>
+    <string name="lbl_register_account">Register Account</string>
+    <string name="lbl_login_acc">Login Account</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_amount_to_pay">Amount to pay</string>
+    <string name="lbl_total">Total</string>
+    <string name="lbl_each">Each</string>
+    <string name="lbl_ks">%1$s KS</string>
+    <string name="lbl_flatmates">Flatmates</string>
+    <string name="lbl_add_new">Add New</string>
+    <string name="lbl_general_cost">General Cost</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_cost">Cost</string>
+    <string name="lbl_bought_items">Bought Items</string>
+    <string name="lbl_empty_category">No cost record for general cost</string>
+    <string name="lbl_empty_bought_item">No one bought items for this month</string>
+    <string name="lbl_profile_detail">Profile Detail</string>
+    <string name="lbl_add_category_name">Please add category\'s name</string>
+    <string name="lbl_add_cost">Please add item\'s cost</string>
+    <string name="lbl_please_wait">Please wait</string>
+    <string name="lbl_something_wrong">Something Wrong</string>
+</resources>
+-->
