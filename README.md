@@ -30,6 +30,7 @@
     Firebase for Cloud Storage
     Faker For Testing Fake Data
     Mokito For Testing
+    MVVM
 
 ### မေးမြန်းချင်တာများရှိခဲ့သော် ဆက်သွယ်ရန်
 `
